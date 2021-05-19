@@ -1,0 +1,26 @@
+{
+   "data":{
+      "homeConfig":[
+         {
+            "key":"LiveShows",
+            "order":1,
+            "show":true
+         },
+         {
+            "key":"TopConsultants",
+            "order":2,
+            "show":true
+         },
+         {
+            "key":"OpenQuestions",
+            "order":3,
+            "show":true
+         },
+         {
+            "key":"Articles",
+            "order":4,
+            "show":true
+         }
+      ]
+   }
+}
