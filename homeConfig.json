@@ -7,18 +7,28 @@
             "show":true
          },
          {
-            "key":"TopConsultants",
-            "order":3,
-            "show":true
-         },
-         {
-            "key":"OpenQuestions",
+            "key":"ContentType",
             "order":2,
             "show":true
          },
          {
-            "key":"Articles",
+            "key":"SecondaryNav",
             "order":4,
+            "show":true
+         },
+         {
+            "key":"TopConsultants",
+            "order":5,
+            "show":true
+         },
+         {
+            "key":"OpenQuestions",
+            "order":3,
+            "show":true
+         },
+         {
+            "key":"Articles",
+            "order":6,
             "show":true
          }
       ],
