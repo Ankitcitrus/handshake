@@ -1,39 +1,52 @@
 {
-   "data":{
-      "homeConfig":[
-         {
-            "key":"LiveShows",
-            "order":1,
-            "show":true
-         },
-         {
-            "key":"ContentType",
-            "order":2,
-            "show":true
-         },
-         {
-            "key":"SecondaryNav",
-            "order":4,
-            "show":true
-         },
-         {
-            "key":"TopConsultants",
-            "order":5,
-            "show":true
-         },
-         {
-            "key":"OpenQuestions",
-            "order":3,
-            "show":true
-         },
-         {
-            "key":"Articles",
-            "order":6,
-            "show":true
-         }
-      ],
-      "serverConfig":{
-         "pageConfig":5
-      }
-   }
+	"data": {
+		"homeConfig": [{
+				"key": "LiveShows",
+				"order": 1,
+				"show": true
+			},
+			{
+				"key": "ContentType",
+				"order": 2,
+				"show": true
+			},
+			{
+				"key": "SecondaryNav",
+				"order": 4,
+				"show": true
+			},
+			{
+				"key": "TopConsultants",
+				"order": 5,
+				"show": true
+			},
+			{
+				"key": "OpenQuestions",
+				"order": 3,
+				"show": true
+			},
+			{
+				"key": "Articles",
+				"order": 6,
+				"show": true
+			}
+		],
+		"serverConfig": {
+			"pageConfig": 5
+		},
+		"dynamicLinksConfig": {
+			"Article": {
+				"title": "My Handshake",
+				"message": "Please install this app, AppLink "
+			},
+			"Shows": {
+				"title": "My Handshake",
+				"message": "Please install this app, AppLink "
+			},
+			"Questions": {
+				"title": "My Handshake",
+				"message": "Please install this app, AppLink "
+			}
+		}
+	}
 }
