@@ -44,7 +44,7 @@
 				"key": "RecommendedMentor",
 				"order": 3,
 				"show": true
-			},
+			}
 			
 		],
 		"serverConfig": {
