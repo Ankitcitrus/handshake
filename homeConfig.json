@@ -1,35 +1,6 @@
 {
 	"data": {
-		"homeConfig": [{
-				"key": "LiveShows",
-				"order": 8,
-				"show": true
-			},
-			{
-				"key": "ContentType",
-				"order": 4,
-				"show": true
-			},
-			{
-				"key": "SecondaryNav",
-				"order": 6,
-				"show": true
-			},
-			{
-				"key": "TopConsultants",
-				"order": 7,
-				"show": true
-			},
-			{
-				"key": "OpenQuestions",
-				"order": 5,
-				"show": true
-			},
-			{
-				"key": "Articles",
-				"order": 7,
-				"show": true
-			},
+		"homeConfig": [
 			{
 				"key": "Banner",
 				"order": 1,
@@ -41,10 +12,15 @@
 				"show": true
 			},
 			{
-				"key": "RecommendedMentor",
+				"key": "createSlot",
 				"order": 3,
 				"show": true
-			}
+			},
+			{
+    				"key": "RecommendedMentor",
+    				"order": 4,
+    				"show": true
+  			}
 			
 		],
 		"serverConfig": {
